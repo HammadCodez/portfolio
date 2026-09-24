@@ -4,8 +4,8 @@
 **Registration Number**: 501399  
 **Class / Section**: Section-B  
 **Institution**: National University of Sciences and Technology (NUST) — SEECS  
-**Live GitHub Pages URL**: `https://hammadkodez.github.io/portfolio/`  
-**GitHub Repository**: `https://github.com/HammadKodez/portfolio`  
+**Live GitHub Pages URL**: `https://hammadcodez.github.io/portfolio/`  
+**GitHub Repository**: `https://github.com/HammadCodez/portfolio`  
 
 ---
 
@@ -100,7 +100,7 @@ To inspect the portfolio locally:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/HammadKodez/portfolio.git
+   git clone https://github.com/HammadCodez/portfolio.git
    cd portfolio
    ```
 
@@ -130,7 +130,7 @@ To inspect the portfolio locally:
 2. Push to GitHub:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/HammadKodez/portfolio.git
+   git remote add origin https://github.com/HammadCodez/portfolio.git
    git push -u origin main
    ```
 
@@ -140,4 +140,4 @@ To inspect the portfolio locally:
    - Choose `main` branch and `/ (root)` folder.
    - Click **Save**.
    - Within 1–2 minutes, GitHub Pages will deploy the portfolio live at:  
-     `https://hammadkodez.github.io/portfolio/`
+     `https://hammadcodez.github.io/portfolio/`

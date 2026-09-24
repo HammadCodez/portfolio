@@ -10,8 +10,8 @@
 - **Department**: Department of Computing
 - **Institution**: School of Electrical Engineering & Computer Science (SEECS), NUST, Islamabad
 - **Course**: CS344 Web Engineering
-- **GitHub Repository**: `https://github.com/HammadKodez/portfolio`
-- **GitHub Pages URL**: `https://hammadkodez.github.io/portfolio/`
+- **GitHub Repository**: `https://github.com/HammadCodez/portfolio`
+- **GitHub Pages URL**: `https://hammadcodez.github.io/portfolio/`
 
 ---
 
